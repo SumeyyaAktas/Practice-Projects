@@ -1,2 +1,11 @@
-# Practice-Projects
-A collection of practice projects to strengthen my C language and low-level skills
+<div align="center">
+
+# Practice Projects
+
+</div>
+
+<div align="center">
+  
+### Collection of Exercises to Strengthen C Language and Low-Level Skills
+
+</div>
