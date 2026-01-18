@@ -6,6 +6,6 @@
 
 <div align="center">
   
-### Collection of Exercises to Strengthen C Language and Low-Level Skills
+### Collection of Exercises to Strengthen Low-Level Skills
 
 </div>
