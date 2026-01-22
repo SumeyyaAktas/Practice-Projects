@@ -15,3 +15,4 @@
 ## Contents
 * **memfunctions:** This folder contains implementations of memcpy, memmove, memset, and memcmp.
 * **circularbuffer:** Circular buffer is a FIFO data structure where the read/write indices loop back to 0 after it reaches the buffer length.
+* **poolallocator:** A pool allocator pre-allocates a contiguous block of memory and is divided into fixed-size chunks. It is a high-performance alternative to dynamic memory allocation functions like malloc() and free().
