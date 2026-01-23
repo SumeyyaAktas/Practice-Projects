@@ -14,6 +14,6 @@ These projects aren't tutorial-based, not commented, and only used for my own le
 
 ## Contents
 * memcmp, memcpy, memmove, memset
+* strncpy, strlcpy, strncmp, strnlen
 * Circular buffer
 * Pool allocator
-* strncpy, strlcpy, strncmp, strnlen
